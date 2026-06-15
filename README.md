@@ -9,9 +9,9 @@
 - Export รายงานเป็น Excel อัตโนมัติ 4 Sheet
 
 ## วิธีใช้งาน
-1. วางไฟล์ Excel ของคุณในโฟลเดอร์เดียวกับ sales_report.py
+1. วางไฟล์ Excel ของคุณในโฟลเดอร์เดียวกับ shop_sales.py
 2. แก้ชื่อไฟล์ในโค้ดให้ตรงกับไฟล์ของคุณ
-3. รันคำสั่ง python sales_report.py
+3. รันคำสั่ง python shop_sales.py
 4. เปิดไฟล์ shop_report.xlsx ดูผลลัพธ์ได้เลย
 
 ## ติดตั้ง Library
