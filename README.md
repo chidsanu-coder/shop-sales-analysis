@@ -1,4 +1,4 @@
-# Sales Report Automation 📊
+# shop-sales-analysis 📊
 
 สคริปต์ Python สำหรับสรุปยอดขายจากไฟล์ Excel อัตโนมัติ
 
